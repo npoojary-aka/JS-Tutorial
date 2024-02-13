@@ -1,1 +1,2 @@
-TextDecoderStream
+TextDecoderStream 
+URLSearchParams
